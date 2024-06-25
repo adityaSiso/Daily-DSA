@@ -21,3 +21,5 @@ while mid <= high:
         mid += 1
 
 print(elements)
+
+# Put all 0's at 0 to low, 1's b/w low and mid, and 2's after mid till high.
